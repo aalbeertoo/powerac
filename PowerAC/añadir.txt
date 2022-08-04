@@ -1,0 +1,11 @@
+#-------------------ADD THAT TO YOUR SERVER.CFG------------------#
+#-----------------WORK WITH STEAM ID OR DISCORD ID---------------#
+
+add_ace Power-ACadministrator Power-ACCadmin allow
+add_ace Power-ACmoderator Power-ACmod allow
+
+add_principal identifier.discord:943886806716416050 Power-ACadministrator
+add_principal identifier.steam:110000141cd8ed5 Power-ACadministrator
+
+
+#-----------------------------FOR OPPEN ADMIN MENU PRESS INSERT (INS)-------------------#
